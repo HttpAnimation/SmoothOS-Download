@@ -1,0 +1,48 @@
+<h1>SmoothOS/LTCHtml</h1>
+<!--Background color-->
+<body style="background-color:rgb(40, 226, 180);">
+  <!--Title-->
+  <title>SmoothOS/LTCHtml</title>
+  <!--Back-->
+<h1>
+    <style>
+      .button {
+        background-color: #1c87c9;
+        border: none;
+        color: white;
+        padding: 40px 68px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 40px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+    </style>
+    </head>
+    <body>
+    <a href="Learn To Code" class="button">Back</a>
+    <h1>
+      <h1>---------------------------------------------------------------------</h1>
+<!--How to make a button take you to a webiste-->
+<h1>
+    <style>
+      .button {
+        background-color: #1c87c9;
+        border: none;
+        color: white;
+        padding: 40px 68px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 40px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+    </style>
+    </head>
+    <body>
+    <a href="https://docs.google.com/document/d/1JaNT_IIL1UTH_gXSjgTxvKMf89aSoPwyvCHwsRMWKPs/edit?usp=sharing" class="button">How to make a button take you to a webiste</a>
+    <h1>
+      <h1>---------------------------------------------------------------------</h1>
+<!--How to change the background color-->

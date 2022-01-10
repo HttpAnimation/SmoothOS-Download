@@ -1,0 +1,70 @@
+<h1>SmoothOS/Downloads</h1>
+<h1>---------------------------------------------------------------------</h1>
+<!--Background color-->
+<body style="background-color:rgb(40, 226, 180);">
+    <!--Title-->
+    <title>SmoothOS/Downloads</title>
+
+  <!--Home-->
+<h1>
+    <style>
+      .button {
+        background-color: #1c87c9;
+        border: none;
+        color: white;
+        padding: 40px 68px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 40px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+    </style>
+    </head>
+    <body>
+    <a href="SmoothOS.html" class="button">Home</a>
+    <h1>
+      <h1>---------------------------------------------------------------------</h1>
+  <!--Games-->
+  <h1>
+    <style>
+      .button {
+        background-color: #1c87c9;
+        border: none;
+        color: white;
+        padding: 40px 68px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 40px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+    </style>
+    </head>
+    <body>
+    <a href="DG.html" class="button">Games</a>
+    <h1>
+      <h1>---------------------------------------------------------------------</h1>
+  <!--Apps-->
+  <h1>
+    <style>
+      .button {
+        background-color: #1c87c9;
+        border: none;
+        color: white;
+        padding: 40px 68px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 40px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+    </style>
+    </head>
+    <body>
+    <a href="Ap.html" class="button">Apps</a>
+    <h1>
+      <h1>---------------------------------------------------------------------</h1>

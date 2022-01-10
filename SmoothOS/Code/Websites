@@ -1,0 +1,197 @@
+<h1>SmoothOS/Websites</h1>
+<h1>---------------------------------------------------------------------</h1>
+<!--Background color-->
+<body style="background-color:rgb(40, 226, 180);">
+    <!--Title-->
+    <title>SmoothOS/Websites</title>
+
+  <!--Home-->
+<h1>
+    <style>
+      .button {
+        background-color: #1c87c9;
+        border: none;
+        color: white;
+        padding: 40px 68px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 40px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+    </style>
+    </head>
+    <body>
+    <a href="SmoothOS.html" class="button">Home</a>
+    <h1>
+      <h1>---------------------------------------------------------------------</h1>
+      <!--Youtube-->
+      <h1>
+        <style>
+          .button {
+            background-color: #1c87c9;
+            border: none;
+            color: white;
+            padding: 40px 68px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 40px;
+            margin: 4px 2px;
+            cursor: pointer;
+          }
+        </style>
+        </head>
+        <body>
+        <a href="https://www.youtube.com/" class="button">Youtube</a>
+        <h1>
+          <h1>---------------------------------------------------------------------</h1>
+                <!--hulu-->
+      <h1>
+        <style>
+          .button {
+            background-color: #1c87c9;
+            border: none;
+            color: white;
+            padding: 40px 68px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 40px;
+            margin: 4px 2px;
+            cursor: pointer;
+          }
+        </style>
+        </head>
+        <body>
+        <a href="https://www.hulu.com/" class="button">Hulu</a>
+        <h1>
+          <h1>---------------------------------------------------------------------</h1>
+                <!--netflix-->
+      <h1>
+        <style>
+          .button {
+            background-color: #1c87c9;
+            border: none;
+            color: white;
+            padding: 40px 68px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 40px;
+            margin: 4px 2px;
+            cursor: pointer;
+          }
+        </style>
+        </head>
+        <body>
+        <a href="https://www.netflix.com/" class="button">Netflix</a>
+        <h1>
+          <h1>---------------------------------------------------------------------</h1>
+                          <!--roblox-->
+      <h1>
+        <style>
+          .button {
+            background-color: #1c87c9;
+            border: none;
+            color: white;
+            padding: 40px 68px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 40px;
+            margin: 4px 2px;
+            cursor: pointer;
+          }
+        </style>
+        </head>
+        <body>
+        <a href="https://www.roblox.com/" class="button">Roblox</a>
+        <h1>
+          <h1>---------------------------------------------------------------------</h1>
+                                    <!--subway-->
+      <h1>
+        <style>
+          .button {
+            background-color: #1c87c9;
+            border: none;
+            color: white;
+            padding: 40px 68px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 40px;
+            margin: 4px 2px;
+            cursor: pointer;
+          }
+        </style>
+        </head>
+        <body>
+        <a href="https://subway.com/en-US" class="button">Subway</a>
+        <h1>
+          <h1>---------------------------------------------------------------------</h1>
+                                              <!--discord-->
+      <h1>
+        <style>
+          .button {
+            background-color: #1c87c9;
+            border: none;
+            color: white;
+            padding: 40px 68px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 40px;
+            margin: 4px 2px;
+            cursor: pointer;
+          }
+        </style>
+        </head>
+        <body>
+        <a href="https://discord.com" class="button">discord</a>
+        <h1>
+          <h1>---------------------------------------------------------------------</h1>
+                                                        <!--gmail-->
+      <h1>
+        <style>
+          .button {
+            background-color: #1c87c9;
+            border: none;
+            color: white;
+            padding: 40px 68px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 40px;
+            margin: 4px 2px;
+            cursor: pointer;
+          }
+        </style>
+        </head>
+        <body>
+        <a href="https://gmail.com" class="button">gmail</a>
+        <h1>
+          <h1>---------------------------------------------------------------------</h1>
+<!--SkinDex-->
+<h1>
+<style>
+.button {
+background-color: #1c87c9;
+border: none;
+color: white;
+padding: 40px 68px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 40px;
+margin: 4px 2px;
+cursor: pointer;
+}
+</style>
+</head>
+<body>
+<a href="https://www.minecraftskins.com/" class="button">Skin Dex</a>
+<h1>
+<h1>---------------------------------------------------------------------</h1>
+                                                  

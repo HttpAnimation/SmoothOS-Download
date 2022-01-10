@@ -1,0 +1,102 @@
+<h1>SmoothOS/CodeToMessAroundWith</h1>
+<!--Background color-->
+<body style="background-color:rgb(40, 226, 180);">
+    <!--Title-->
+    <title>SmoothOS/Code</title>
+
+  <!--Home-->
+<h1>
+    <style>
+      .button {
+        background-color: #1c87c9;
+        border: none;
+        color: white;
+        padding: 40px 68px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 40px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+    </style>
+    </head>
+    <body>
+    <a href="SmoothOS.html" class="button">Home</a>
+    <h1>
+      <h1>---------------------------------------------------------------------</h1>
+
+        <!--Lag your Computer-->
+<h1>
+    <style>
+      .button {
+        background-color: #1c87c9;
+        border: none;
+        color: white;
+        padding: 40px 68px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 40px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+    </style>
+    </head>
+    <body>
+    <a href="https://download1073.mediafire.com/dp27epzlzs3g/rigfms85ii69hs3/LagYourPc.py" class="button">Lag your Computer</a>
+    <h1>
+      <h1>How to run</h1>
+      <h2>open terminal and do cd were/ever/you/donwloaded/it then do python3 LagYourPc.py</h2>
+      <h1>RUNNING THIS WILL CRASH YOUR PC</h1>
+      <h1>Type = Python</h1>
+      <h1>---------------------------------------------------------------------</h1>
+       <!--H e l l o   w o r l d-->
+       <h1>
+        <style>
+          .button {
+            background-color: #1c87c9;
+            border: none;
+            color: white;
+            padding: 40px 68px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 40px;
+            margin: 4px 2px;
+            cursor: pointer;
+          }
+        </style>
+        </head>
+        <body>
+        <a href="https://download940.mediafire.com/j2ljbk0qbzwg/2tkh9yt6s4yw4zz/Hello.py" class="button">H e l l o   w o r l d</a>
+        <h1>
+          <h1>How to run</h1>
+          <h2>open terminal and do cd were/ever/you/donwloaded/it then do python3 Hello.py</h2>    
+          <h1>Type = Python</h1>
+          <h1>---------------------------------------------------------------------</h1>
+           <!--Car Animation-->
+           <h1>
+            <style>
+              .button {
+                background-color: #1c87c9;
+                border: none;
+                color: white;
+                padding: 40px 68px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 40px;
+                margin: 4px 2px;
+                cursor: pointer;
+              }
+            </style>
+            </head>
+            <body>
+            <a href="https://download938.mediafire.com/kzp7u0cw93sg/2336bbc4dee6pny/Car.py" class="button">Car Animation</a>
+            <h1>
+              <h1>How to run</h1>
+              <h2>open terminal and do cd were/ever/you/donwloaded/it then do python3 Car.py</h2>    
+              <h1>Type = Python</h1>
+              <h1>---------------------------------------------------------------------</h1>
+    

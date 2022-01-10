@@ -1,0 +1,47 @@
+<h1>SmoothOS/LTC</h1>
+<!--Background color-->
+<body style="background-color:rgb(40, 226, 180);">
+  <!--Title-->
+  <title>SmoothOS/LTC</title>
+  <!--Home-->
+<h1>
+    <style>
+      .button {
+        background-color: #1c87c9;
+        border: none;
+        color: white;
+        padding: 40px 68px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 40px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+    </style>
+    </head>
+    <body>
+    <a href="SmoothOS.html" class="button">Home</a>
+    <h1>
+      <h1>---------------------------------------------------------------------</h1>
+      <!--HTML-->
+      <h1>
+        <style>
+          .button {
+            background-color: #1c87c9;
+            border: none;
+            color: white;
+            padding: 40px 68px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 40px;
+            margin: 4px 2px;
+            cursor: pointer;
+          }
+        </style>
+        </head>
+        <body>
+        <a href="LCTHtml" class="button">html</a>
+        <h1>
+          <h1>---------------------------------------------------------------------</h1>    
