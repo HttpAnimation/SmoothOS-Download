@@ -194,4 +194,25 @@ cursor: pointer;
 <a href="https://www.minecraftskins.com/" class="button">Skin Dex</a>
 <h1>
 <h1>---------------------------------------------------------------------</h1>
-                                                  
+ <!--Steam Unlocked-->
+<h1>
+  <style>
+  .button {
+  background-color: #1c87c9;
+  border: none;
+  color: white;
+  padding: 40px 68px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 40px;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
+  </style>
+  </head>
+  <body>
+  <a href="https://steamunlocked.net/" class="button">Steam Unlocked</a>
+  <h1>
+  <h1>---------------------------------------------------------------------</h1>
+                                                                                                     
